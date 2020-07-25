@@ -4,8 +4,6 @@
 #SBATCH --cpus-per-task=2
 #SBATCH --mem-per-cpu=32G
 #SBATCH --job-name=2.1-methReadandFilter
-#SBATCH --mail-type=BEGIN
-#SBATCH --mail-type=END
 #SBATCH --output=/home/nia/project/nia/logs/%x
 
 ###################################################################

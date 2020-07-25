@@ -3,9 +3,6 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=12
 #SBATCH --mem-per-cpu=24G
-#SBATCH --mail-user=nia@uoguelph.ca
-#SBATCH --mail-type=BEGIN
-#SBATCH --mail-type=END
 #SBATCH --job-name=2.2-databases
 #SBATCH --output=/home/nia/project/nia/logs/%x
 
