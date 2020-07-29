@@ -25,4 +25,4 @@ qualimap bamqc -bam /home/nia/project/nia/alignments/cMut/Cmop1_10.bam --java-me
 qualimap bamqc -bam /home/nia/project/nia/alignments/cWT/C_10.bam --java-mem-size=5G -c -nt 8 -outdir /home/nia/project/nia/results/qualimap/cWT/
 
 # run qualimap collectively on all alignment files
-qualimap multi-bamqc -d 1.7.1-qualimapDir.txt -outdir /home/nia/project/nia/results/qualimap/all3/
+qualimap multi-bamqc -d 1.7.1-qualimapDir.txt -outdir /home/nia/project/nia/results/qualimap/all/

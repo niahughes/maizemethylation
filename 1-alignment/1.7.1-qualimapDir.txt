@@ -3,9 +3,9 @@
 ###################################################################
 
 # samples
-aMut	/home/nia/project/nia/results/qualiTest/aMut/genome_results.txt
-aWT	/home/nia/project/nia/results/qualiTest/aWT/genome_results.txt
-bMut	/home/nia/project/nia/results/qualiTest/bMut/genome_results.txt
-bWT	/home/nia/project/nia/results/qualiTest/bWT/genome_results.txt
-cMut	/home/nia/project/nia/results/qualiTest/cMut/genome_results.txt
-cWT	/home/nia/project/nia/results/qualiTest/cWT/genome_results.txt
+aMut	/home/nia/project/nia/results/qualimap/aMut/genome_results.txt
+aWT	/home/nia/project/nia/results/qualimap/aWT/genome_results.txt
+bMut	/home/nia/project/nia/results/qualimap/bMut/genome_results.txt
+bWT	/home/nia/project/nia/results/qualimap/bWT/genome_results.txt
+cMut	/home/nia/project/nia/results/qualimap/cMut/genome_results.txt
+cWT	/home/nia/project/nia/results/qualimap/cWT/genome_results.txt
